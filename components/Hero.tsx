@@ -83,7 +83,7 @@ export default function Hero() {
           {/* Buttons */}
           <div className="mt-10 flex flex-col gap-4 sm:flex-row">
             <a
-              href="https://abrir.link/HChOM"
+              href="https://wa.me/5579999380945"
               target="_blank"
               className="group relative overflow-hidden rounded-2xl bg-[#f89808] px-8 py-4 text-center text-lg font-semibold text-black transition duration-300 hover:scale-[1.03]"
             >

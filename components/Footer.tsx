@@ -71,7 +71,7 @@ export default function Footer() {
 
           <div className="flex flex-col gap-4 text-zinc-300/70">
             <a
-              href="https://abrir.link/KRAoQ"
+              href="https://wa.me/5579999380945"
               target="_blank"
               className="transition hover:text-[#f89808]"
             >

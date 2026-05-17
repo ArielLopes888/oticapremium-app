@@ -42,7 +42,7 @@ export default function Navbar() {
 
         {/* CTA Desktop */}
         <a
-          href="https://abrir.link/KRAoQ"
+          href="https://wa.me/5579999380945"
           target="_blank"
           className="hidden md:inline-flex rounded-2xl bg-white px-5 py-2.5 text-sm font-semibold text-black transition hover:scale-105"
         >
@@ -85,7 +85,7 @@ export default function Navbar() {
               </a>
 
               <a
-                href="https://abrir.link/KRAoQ"
+                href="https://wa.me/5579999380945"
                 target="_blank"
                 className="mt-2 rounded-2xl bg-white px-5 py-3 text-center text-sm font-semibold text-black"
               >
